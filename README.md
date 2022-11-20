@@ -18,3 +18,7 @@
 <h3 align="center">My statistics on GitHub</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaxzo)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">My statistics on CodeWars</h3>
+
+[![codewars](https://www.codewars.com/users/y4xzo/badges/large)](https://www.codewars.com/users/y4xzo)
