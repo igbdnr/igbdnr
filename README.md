@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm yaxzo
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Ukrainian, 16 y.o. Python, C# Developer. In the study of the Rust</h3>
+<h3 align="center">Ukrainian, 17 y.o. Python, C# Developer. In the study of the Rust</h3>
 <p>Studying in the second year of the Yandex Academy Lyceum. I develop in the field of microcontrollers , microchips and backend development</p>
 
 <h3 align="center">My main technology stack</h3>
