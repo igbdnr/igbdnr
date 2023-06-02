@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm yaxzo
 <h3 align="center">Ukrainian, 17 y.o. Python, C# Developer. In the study of the Rust</h3>
-<p>Studying in the second year of the Yandex Academy Lyceum. I develop in the field of microcontrollers , microchips and backend development</p>
+<p>I develop in the field of microcontrollers, microchips and backend development</p>
 
 <h3 align="center">My main technology stack</h3>
 
