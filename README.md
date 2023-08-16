@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm yaxzo</h1>
 <h3>17 y.o. Python Backend Developer. In the study of the Rust</h3>
 <h3>Yandex Lyceum graduate</h3>
-<h3>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</h3>
+<strong>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</strong>
 
 <h3 align="center">My main technology stack</h3>
 
