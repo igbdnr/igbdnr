@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm yaxzo</h1>
-<h3 align="center">17 y.o. Python Backend Developer. In the study of the Rust</h3>
-<p align="center">Develop in the field of microcontrollers, microchips and backend development</p>
-<p align="center">Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</p>
+<h3>17 y.o. Python Backend Developer. In the study of the Rust</h3>
+<h3>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</h3>
 
 <h3 align="center">My main technology stack</h3>
-
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
