@@ -3,7 +3,7 @@
 <h3>Yandex Lyceum graduate</h3>
 <strong>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</strong>
 
-<h3 align="center">My main technology stack</h3>
+<h2 align="center">Main technology stack</h2>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,6 +16,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<h3 align="center">My statistics on CodeWars</h3>
+<h2 align="center">My CodeWars</h2>
 
 [![codewars](https://www.codewars.com/users/y4xzo/badges/large)](https://www.codewars.com/users/y4xzo)
