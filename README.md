@@ -18,4 +18,4 @@
 
 <h2 align="center">My CodeWars</h2>
 
-[![codewars](https://www.codewars.com/users/yaxzo/badges/large)](https://www.codewars.com/users/y2xzo)
+[![codewars](https://www.codewars.com/users/yaxzo/badges/large)](https://www.codewars.com/users/yaxzo)
