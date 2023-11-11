@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Igor "yaxzo" Bodnar</h1>
+<h1 align="center">Hi there, I'm Igor "yaxzo"</h1>
 <h3 align="center">17 y.o. Python Backend Developer. In the study of the Go.</h3>
 <h3 align="center">Yandex Lyceum graduate.</h3>
 <strong>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</strong>
