@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm Igor "yaxzo" Bodnar</h1>
-<h3 align="center">17 y.o. Python Backend Developer. In the study of the Go.</h3>
+<h3 align="center">18 y.o. Python Backend and Kotlin Android Developer. In the study of the Kotlin.</h3>
 <h3 align="center">Yandex Lyceum graduate.</h3>
 <strong>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</strong>
 
 <h2 align="center">Main technology stack</h2>
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
