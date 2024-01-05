@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Igor "yaxzo" Bodnar</h1>
 <h3 align="center">18 y.o., Python Backend and Kotlin Android Developer.</h3>
 <h3 align="center">Yandex Lyceum graduate.</h3>
-<strong>Studying in the first year of MASU in the direction of "Computer Science and Computer Engineering. Web application development technology"</strong>
 
 <h2 align="center">Main technology stack [BACKEND]</h2>
 
@@ -22,6 +21,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<h2 align="center">My Codewars</h2>
+<h2 align="center">My codewars</h2>
 
 [![codewars](https://www.codewars.com/users/yaxzo/badges/large)](https://www.codewars.com/users/yaxzo)
