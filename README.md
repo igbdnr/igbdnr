@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Igor "yaxzo"</h1>
 <h3 align="center">18 y.o., Python Backend and Kotlin Android Developer.</h3>
-<h3 align="center">Yandex Lyceum graduate.</h3>
+<h3 align="center">Y.Lyceum graduate.</h3>
 
 <h2 align="center">Main technology stack [BACKEND]</h2>
 
