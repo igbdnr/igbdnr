@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Igor "yaxzo" Bodnar</h1>
+<h1 align="center">Hi there, I'm Igor "yaxzo"</h1>
 <h3 align="center">18 y.o., Python Backend and Kotlin Android Developer.</h3>
 <h3 align="center">Yandex Lyceum graduate.</h3>
 
