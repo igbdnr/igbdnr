@@ -1,7 +1,3 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=yaxzo&theme=darkhub&no-bg=true&no-frame=true)
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
 Hi, I am Igor. More info soon...
 
 [telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
@@ -20,6 +16,10 @@ Hi, I am Igor. More info soon...
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
