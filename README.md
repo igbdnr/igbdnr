@@ -1,13 +1,18 @@
-Hi, I am Igor. (More info soon...)
+Hi, I am Igor. I'm 18 years old, studying backend technology. I'm always open to new projects
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-My contacts [all badges clickable]:
+<h3 align="center"> My contacts and social media [all badges clickable]: </h3>
 
-[![Yandex](https://img.shields.io/badge/-igrbdnr@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:igrbdnr@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/igbdnr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igrbdnr@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igbdnr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/igbdnr)
+
+<h4>LinkedIn soon...</h4>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+<h3 align="center">About me:</h3>
 
 * I ...
 * I ...
@@ -22,6 +27,5 @@ My contacts [all badges clickable]:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaxzo&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaxzo&layout=compact)
+[![codewars](https://www.codewars.com/users/yaxzo/badges/large)](https://www.codewars.com/users/yaxzo)
