@@ -1,4 +1,8 @@
-Hi, I am Igor. I'm 18 years old, studying backend technology. I'm always open to new projects
+<h4 align="center">
+  Hi, I am Igor. I'm 18 years old, studying backend technology.
+  
+  I'm always open to new projects and ideas.
+</h4>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
@@ -14,10 +18,9 @@ Hi, I am Igor. I'm 18 years old, studying backend technology. I'm always open to
 
 <h3 align="center">About me:</h3>
 
-* I ...
-* I ...
-* I ...
-* I ... 
+* I'm a graduate of Yandex.Lyceum (not to be confused with Yandex Practicum).
+* I like to do automation.
+* I'm always glad to meet new people.
 
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
