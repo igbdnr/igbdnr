@@ -30,5 +30,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaxzo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igbdnr&layout=compact)
 [![codewars](https://www.codewars.com/users/yaxzo/badges/large)](https://www.codewars.com/users/yaxzo)
